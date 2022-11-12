@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "934092291622",
+    "project_id": "hotellogin-417ad",
+    "storage_bucket": "hotellogin-417ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934092291622:android:a5ebed133177ba404bb0e7",
+        "android_client_info": {
+          "package_name": "com.example.passworednewaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934092291622-apt0m8a644job0npu8lur4jju12mg5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBjfTr_yBGDkHlGSD5rstCnBu1kW7eKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934092291622-apt0m8a644job0npu8lur4jju12mg5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934092291622:android:aa26153b237339714bb0e7",
+        "android_client_info": {
+          "package_name": "com.example.state_hotel_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934092291622-3nd2hpvlqb1alrntp6qb652pdo9qng8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.state_hotel_project",
+            "certificate_hash": "9961919dc5d183b7128dcfdf54c98d77efc20fe3"
+          }
+        },
+        {
+          "client_id": "934092291622-apt0m8a644job0npu8lur4jju12mg5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBjfTr_yBGDkHlGSD5rstCnBu1kW7eKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934092291622-apt0m8a644job0npu8lur4jju12mg5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
