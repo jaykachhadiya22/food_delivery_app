@@ -12,6 +12,8 @@ import 'package:state_hotel_project/locator/locator.dart';
 import 'package:state_hotel_project/ui/screens/home_view/bottam_navigaton_view.dart';
 import 'package:state_hotel_project/ui/screens/login_view/login_view.dart';
 
+
+// hello word
  var foodBox;
 void main() async {
    WidgetsFlutterBinding.ensureInitialized();
