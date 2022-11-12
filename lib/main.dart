@@ -13,7 +13,7 @@ import 'package:state_hotel_project/ui/screens/home_view/bottam_navigaton_view.d
 import 'package:state_hotel_project/ui/screens/login_view/login_view.dart';
 
 
-// hello word
+// hello word 123456789
  var foodBox;
 void main() async {
    WidgetsFlutterBinding.ensureInitialized();
