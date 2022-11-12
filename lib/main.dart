@@ -13,9 +13,6 @@ import 'package:state_hotel_project/ui/screens/home_view/bottam_navigaton_view.d
 import 'package:state_hotel_project/ui/screens/login_view/login_view.dart';
 
 // Hello
-
-
-
 var foodBox;
 
 void main() async {
