@@ -12,11 +12,10 @@ import 'package:state_hotel_project/locator/locator.dart';
 import 'package:state_hotel_project/ui/screens/home_view/bottam_navigaton_view.dart';
 import 'package:state_hotel_project/ui/screens/login_view/login_view.dart';
 
+var foodBox;
 
-// hello word 123456789
- var foodBox;
 void main() async {
-   WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp();
   setup();
